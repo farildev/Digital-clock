@@ -23,4 +23,4 @@ setInterval(function() {
     if(hours < 10){
         hours = '0' + hours;
     }
-})
+});
